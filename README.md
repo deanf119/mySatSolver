@@ -1,0 +1,2 @@
+# mySatSolver
+solving satisfiability problem
